@@ -1,4 +1,4 @@
-package com.nuvio.seekpreview
+package io.framescout
 
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.CoroutineScope

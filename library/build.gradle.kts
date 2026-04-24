@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.nuvio.seekpreview"
+    namespace = "io.framescout"
     compileSdk = 36
 
     defaultConfig {

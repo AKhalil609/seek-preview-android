@@ -1,4 +1,4 @@
-package com.nuvio.seekpreview
+package io.framescout
 
 import java.io.DataInputStream
 import java.io.DataOutputStream

@@ -1,4 +1,4 @@
-package com.nuvio.seekpreview
+package io.framescout
 
 enum class SeekPreviewGenerationType {
     /** One frame every 3 minutes for the whole movie. Fast and lightweight. */

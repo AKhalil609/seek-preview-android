@@ -1,4 +1,4 @@
-package com.nuvio.seekpreview
+package io.framescout
 
 import android.graphics.Bitmap
 import android.media.MediaMetadataRetriever

@@ -1,4 +1,4 @@
-package com.nuvio.seekpreview
+package io.framescout
 
 /**
  * Grabs a single video frame at a given timestamp and returns it encoded
